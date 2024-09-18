@@ -16,9 +16,7 @@
 
 // Using layer taps on thumbs, having quick tap as well helps w/ repeating space/backspace
 
-< {
-    quick_tap_ms = <200>;
-};
+&lt { quick_tap_ms = <200>; };
 
 / {
     chosen { zmk,matrix_transform = &dual_2u_transform; };
