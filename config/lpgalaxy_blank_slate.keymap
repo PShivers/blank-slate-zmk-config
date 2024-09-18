@@ -59,7 +59,7 @@
 
         sym_layer {
             bindings = <
-&none   &trans  &kp LG(LC(F4))    &kp LG(TAB)  &kp LG(LC(D))      &trans          &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans     &trans                &trans
+&none   &trans  &kp LG(LC(F4))    &kp LG(TAB)  &kp LG(LC(D))      &trans          &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp MINUS  &trans                &trans
 &trans  &trans  &kp LG(LC(LEFT))  &kp LG(D)    &kp LG(LC(RIGHT))  &trans          &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &kp GREATER_THAN      &kp TILDE
 &trans  &trans  &trans            &trans       &trans             &trans          &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans     &kp NON_US_BACKSLASH  &trans
 &trans  &trans  &trans            &trans       &trans             &trans  &trans  &trans  &trans                &trans                 &trans     &trans
