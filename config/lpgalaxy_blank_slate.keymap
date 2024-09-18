@@ -19,10 +19,6 @@
 &lt { quick_tap_ms = <200>; };
 
 / {
-    chosen { zmk,matrix_transform = &dual_2u_transform; };
-
-    conditional_layers { compatible = "zmk,conditional-layers"; };
-
     combos {
         compatible = "zmk,combos";
 
